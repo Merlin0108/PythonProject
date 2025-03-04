@@ -1,0 +1,14 @@
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.csproj.AssemblyReference.cache
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\MainWindow.baml
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\MainWindow.g.cs
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\App.g.cs
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication_MarkupCompile.cache
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.g.resources
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.Properties.Resources.resources
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.csproj.GenerateResource.cache
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.csproj.CoreCompileInputs.cache
+E:\1\WpfApp3\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe.config
+E:\1\WpfApp3\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+E:\1\WpfApp3\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.exe
+E:\1\WpfApp3\MatrixMultiplication\obj\x86\Debug\MatrixMultiplication.pdb
